@@ -1144,7 +1144,7 @@ you make it" technique tends to work very well.  When Ben first got
 asked to manage a large team, a similar script went through his mind:
 __"You want me to own this project?  That's crazy, but OK, I guess I'll
 pretend to be a leader for a while."__ Then every year at
-performance-review time, he'd look back at his success and and say,
+performance-review time, he'd look back at his success and say,
 __"Yeah, I guess I'll keep pretending a bit longer—seems to be going
 well!"__(((range="endofrange", startref="ixch03asciidoc7")))(((range="endofrange", startref="ixch03asciidoc6")))
 
