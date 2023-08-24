@@ -350,7 +350,7 @@ healthy to create a clique focused on "us" (the nice people) versus
 "them" (the mean people). In our prior examples we didn't focus on
 booting the person, but rather on booting the __behavior__. Make it
 clear that bad behaviors will not be tolerated. If, after repeated
-warnings, the behavior doesn't change, only then does it makes sense
+warnings, the behavior doesn't change, only then does it make sense
 to consider formal rejection.
 
 Concentrating your effort on removing toxic behavior is often enough
